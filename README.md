@@ -1,2 +1,2 @@
-# simple_shell_dump_store
-Temp Copy of simple shell project
+# simple_shell
+0x16. C - Simple Shell project by Kessiena Arhata-obehi and Sarafadeen Sheriff Ishola
