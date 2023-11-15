@@ -7,5 +7,5 @@
 
 void print_promt(void)
 {
-	printf("ks_shell$ ");
+	_printf("ks_shell$ ");
 }
